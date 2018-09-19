@@ -4,7 +4,7 @@
 Write a responsive application that search for books based on user input and present the results. 
 
 ## Frameworks
-We prefer angularJs or Angular2+ (typescript preferred).
+We prefer angularJs 1.6+.
 You can use any CSS frameworks to make your life easier. But we would also like to see your styling skills.
 
 ## SPECIFICATION
